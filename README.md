@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TaylorHartsfield
 - 👀 I’m interested in ... Software Engineering!
-- 🌱 I’m currently a Fellow at ... Hackbright Academy.
-- 💞️ I’m looking to collaborate on ... projects to help me shift my career into tech.
+- 🌱 I’m currently a Fellow at ... Hackbright Academy and focusing on Python.
+- 💞️ I’m looking to collaborate on ... projects to help me shift my career into tech and anything for beignners with Machine Learning!
 - 📫 How to reach me ... taylormhartsfield@gmail.com
 
 <!---
