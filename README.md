@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @TaylorHartsfield
-- 👀 I’m interested in ... Software Engineering!
-- 🌱 I’m currently a Fellow at ... Hackbright Academy and focusing on React and Python.
+- 👩🏼‍💻 I’m interested in ... Fullstack development.
+- 🙇🏼‍♀️ Currently studying...Python and React.
+- 👩🏼‍🎓 I recently graduated from ... Hackbright Academy.
+- 📌 Based in Colorado and open to remote work.
 - 📫 How to reach me ... taylormhartsfield@gmail.com
 
 <!---
