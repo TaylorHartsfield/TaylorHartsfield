@@ -2,7 +2,8 @@
 - 👩🏼‍💻 I’m interested in ... Fullstack development.
 - 🙇🏼‍♀️ Currently studying...Python and React.
 - 👩🏼‍🎓 I recently graduated from ... Hackbright Academy.
-- 📌 Based in Colorado and open to remote work.
+- 📍 Based in ... Colorado, US and open to remote work.
+- 🔗 Learn more at ... linkedin.com/in/taylormhartsfield/
 - 📫 How to reach me ... taylormhartsfield@gmail.com
 
 <!---
