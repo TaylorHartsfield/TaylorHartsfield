@@ -4,7 +4,7 @@
 - 👩🏼‍🎓 I recently graduated from ... Hackbright Academy.
 - 📍 Based in ... Colorado, US.
 - 👩🏼‍💻 Currently Employed....Solution Delivery Engineer, Sandbox Banking
-- 🔗 Learn more at ... https://www.linkedin.com/in/taylormhartsfield/ or https://taylorhartsfield.github.io
+- 🔗 Learn more at ... https://www.linkedin.com/in/taylormhartsfield/ or https://taylorcodes.com
 - 📫 How to reach me ... taylormhartsfield@gmail.com
 
 <!---
